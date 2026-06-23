@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 export function Dashboard() {
   // State untuk Kalkulator CAGR Interaktif
